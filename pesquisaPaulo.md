@@ -14,5 +14,7 @@ como controle de versão, rastreamento de problemas (issue tracking), gerenciame
 VSCode, ou Visual Studio Code, é um editor de código-fonte desenvolvido pela Microsoft. Ele é gratuito,
 de código aberto e está disponível para Windows, macOS e Linux. O VSCode é altamente personalizável e oferece suporta 
 a uma ampla variedade de linguagens de programação, graças a uma vasta coleção de extensões disponíveis.
-<img  Medium"/>![image](https://github.com/paulo872/AV1/assets/165043783/5dff8c95-40d2-410b-8f3b-9bedd59a6f2f)
+
+
+![image](https://github.com/paulo872/AV1/assets/165043783/5dff8c95-40d2-410b-8f3b-9bedd59a6f2f)
 
